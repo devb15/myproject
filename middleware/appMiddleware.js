@@ -10,7 +10,7 @@ var session = require('express-session');
 var flash = require('connect-flash');
 
 
-
+// Mongoose Setup
 var mongoose = require('mongoose');
 var config = require('./../config/db');
 
