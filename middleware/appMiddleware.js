@@ -14,8 +14,6 @@ var flash = require('connect-flash');
 var mongoose = require('mongoose');
 var config = require('./../config/db');
 
-
-
 module.exports = function(app){
 
    
